@@ -1,0 +1,9 @@
+Zathrack
+Barbarian
+Human
+12
+3
+42
+14
+12
+6
